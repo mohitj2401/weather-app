@@ -9,7 +9,14 @@ This website exemplifies the seamless integration of the OpenWeatherAPI to provi
 
 ## Installation
 
-1. **Clone the Repository:**
+**Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/laravel-weather-app.git
-   cd laravel-weather-app
+   git clone https://github.com/mohitj2401/weather-app
+   cd weather-app
+
+
+**Install Dependencies:**
+    ```bash
+   composer install
+
+
