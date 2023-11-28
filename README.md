@@ -1,9 +1,6 @@
 # Weather App
 
-<video width="640" height="360" controls>
-  <source src="demo.mkv" type="video/mkv">
-  Your browser does not support the video tag.
-</video>
+![](https://github.com/mohitj2401/weather-app/blob/master/Produce_0.GIF)
 ## Description
 
 Your project description goes here...
